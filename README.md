@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 - I’m currently developing CRISPR related bioinformatics tools.
-- You can reach me at amir.taheri.ghahfarokhi@gmail.com or visit [https://amirtaheri.info](https://amirtaheri.info)
+- You are welcome to visit my portfolio at [https://amirtaheri.info](https://amirtaheri.info)
+- Let's connect on [linkedin](https://linkedin.com/ghahfarokhi
